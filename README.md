@@ -22,7 +22,12 @@ Dedicated **iOS Engineer** with exceptional problem-solving skills, API design e
 
 ## PROFESSIONAL EXPERIENCE
 
-### 99 Group | 99.co (Singapore), PropTech iOS App, Mobile Lead + Senior iOS Engineer <div align="right">Aug 2021 – June 2024</div>
+<div>
+
+### 99 Group | 99.co (Singapore), PropTech iOS App, Mobile Lead + Senior iOS Engineer
+
+<div align="right">Aug 2021 – June 2024</div>
+</div>
 
 Product: [99.co iOS App](https://apps.apple.com/sg/app/99-co-singapore-property-hdbs/id935675660) (2nd most used Real Estate App in Singapore)
 
@@ -37,29 +42,54 @@ Product: [99.co iOS App](https://apps.apple.com/sg/app/99-co-singapore-property-
   - [Agent Tool](https://www.99.co/singapore/property-agent-hub)
   - [Smart Video](https://www.99.co/singapore/property-agent-hub/99-smart-video) Creation using AVFoundation
 
-### LINE FINANCIAL PLUS (Korea), Senior iOS Engineer <div align="right">July 2018 – July 2021</div>
+<div>
+
+### LINE FINANCIAL PLUS (Korea), Senior iOS Engineer
+
+<div align="right">July 2018 – July 2021</div>
+</div>
 
 Worked with over 100 iOS Engineers on products including [LINE Messenger](https://apps.apple.com/us/app/line/id443904275), [LINE PAY iOS App](https://apps.apple.com/jp/app/line-pay/id1449817412?l=en), [LINE Good Partners](https://apps.apple.com/tw/app/line-pay-good-partner/id1581060632?l=en) (No. 1 in Japan, Taiwan and Thailand)
 
 - Led financial services development, including [SplitBill](https://linecorp.com/ja/pr/news/en/2018/2539), [E-KYC](https://clova.line.me/line-ekyc/), and UI modules for LINE Messenger and Pay iOS app
 - Analyzed, optimized, and improved the codebase, reducing **scrolling hitch count** from **6 to 2** by improving rendering performance
 
-### SAMSUNG ELECTRONICS (Korea), UX Engineer Level 4 <div align="right">July 2012 – June 2018</div>
+<div>
+
+### SAMSUNG ELECTRONICS (Korea), UX Engineer Level 4
+
+<div align="right">July 2012 – June 2018</div>
+</div>
 
 - One Samsung Project - Content Management System, Design System for Android, Web and Smart TV
 - Smart TV Prototypes using Swift
 - Future Galaxy Preloaded Android Apps - Contact App, Photo App, and Content Sharing App
 - Computer Vision based Multi-Touch Gesture SDK using C++
 
-### SAMSUNG ELECTRONICS (Korea), Software Engineer Intern, Scholarship <div align="right">July 2008 – June 2012</div>
+<div>
+
+### SAMSUNG ELECTRONICS (Korea), Software Engineer Intern, Scholarship
+
+<div align="right">July 2008 – June 2012</div>
+</div>
 
 ## EDUCATION
 
-**Masters of Computer Science**, [Yonsei University](https://www.yonsei.ac.kr/en_sc/) (Seoul, South Korea) <div align="right">July 2010 – July 2012</div>
+<div>
+
+**Masters of Computer Science**, [Yonsei University](https://www.yonsei.ac.kr/en_sc/) (Seoul, South Korea)
+
+<div align="right">July 2010 – July 2012</div>
+</div>
 
 Research Area: Computer vision based Human Computer Interaction and Augmented Reality (OpenCV, C++)
 
-**Bachelors of Computer Engineering**, [Tech University of Korea](https://www.tukorea.ac.kr) (South Korea) <div align="right">Mar 2003 – July 2010</div>
+<div>
+
+**Bachelors of Computer Engineering**, [Tech University of Korea](https://www.tukorea.ac.kr) (South Korea)
+
+<div align="right">Mar 2003 – July 2010</div>
+</div>
 
 ## PROJECTS
 
