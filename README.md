@@ -20,6 +20,9 @@ Dedicated **iOS Engineer** with exceptional problem-solving skills, API design e
 - Unit Test (TDD), UI Test and Snapshot Test
 - Deep knowledge of Objective-C and Swift
 
+## TECH STACKS
+- Swift, Objective-C, Javascript, SwiftUI, iOS Development, Server-Side Swift, AWS, EC2, RDS, Cloud9, PostgreSQL, Core Data, Core Animation, Core Location, App Architecture, Clean Architecture, RxSwift, Combine
+
 ## PROFESSIONAL EXPERIENCE
 
 ### 99 Group | 99.co (Singapore), PropTech iOS App, Mobile Lead + Senior iOS Engineer
@@ -82,6 +85,3 @@ Research Area: Computer vision based Human Computer Interaction and Augmented Re
 ## PATENTS
 
 [EP3306546A4](https://patents.google.com/patent/EP3306546A4/en): User terminal device, terminal for payment, and method and system for payment using said user terminal device and terminal for payment (1st Inventor)
-
-## TECH STACKS
-- Swift, Objective-C, Javascript, SwiftUI, iOS Development, Server-Side Swift, AWS, EC2, RDS, Cloud9, PostgreSQL, Core Data, Core Animation, Core Location, App Architecture, Clean Architecture, RxSwift, Combine
