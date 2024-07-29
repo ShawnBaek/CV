@@ -20,6 +20,26 @@ Dedicated **iOS Engineer** with exceptional problem-solving skills, API design e
 - Unit Test (TDD), UI Test and Snapshot Test
 - Deep knowledge of Objective-C and Swift
 
+## TECH STACKS
+- Swift
+- Objective-C
+- Javascript
+- SwiftUI
+- iOS Development
+- Server-Side Swift
+- AWS
+- EC2
+- RDS
+- Cloud9
+- PostgreSQL
+- Core Data
+- Core Animation
+- Core Location
+- App Architecture
+- Clean Architecture
+- RxSwift
+- Combine
+
 ## PROFESSIONAL EXPERIENCE
 
 ### 99 Group | 99.co (Singapore), PropTech iOS App, Mobile Lead + Senior iOS Engineer
@@ -61,12 +81,12 @@ Worked with over 100 iOS Engineers on products including [LINE Messenger](https:
 
 ## EDUCATION
 
-### Masters of Computer Science**, [Yonsei University](https://www.yonsei.ac.kr/en_sc/) (Seoul, South Korea)
+### Masters of Computer Science, [Yonsei University](https://www.yonsei.ac.kr/en_sc/) (Seoul, South Korea)
 #### July 2010 – July 2012
 
 Research Area: Computer vision based Human Computer Interaction and Augmented Reality (OpenCV, C++)
 
-### Bachelors of Computer Engineering**, [Tech University of Korea](https://www.tukorea.ac.kr) (South Korea)
+### Bachelors of Computer Engineering, [Tech University of Korea](https://www.tukorea.ac.kr) (South Korea)
 #### Mar 2003 – July 2010
 
 ## PROJECTS
