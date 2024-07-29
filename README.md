@@ -84,21 +84,4 @@ Research Area: Computer vision based Human Computer Interaction and Augmented Re
 [EP3306546A4](https://patents.google.com/patent/EP3306546A4/en): User terminal device, terminal for payment, and method and system for payment using said user terminal device and terminal for payment (1st Inventor)
 
 ## TECH STACKS
-- Swift
-- Objective-C
-- Javascript
-- SwiftUI
-- iOS Development
-- Server-Side Swift
-- AWS
-- EC2
-- RDS
-- Cloud9
-- PostgreSQL
-- Core Data
-- Core Animation
-- Core Location
-- App Architecture
-- Clean Architecture
-- RxSwift
-- Combine
+- Swift, Objective-C, Javascript, SwiftUI, iOS Development, Server-Side Swift, AWS, EC2, RDS, Cloud9, PostgreSQL, Core Data, Core Animation, Core Location, App Architecture, Clean Architecture, RxSwift, Combine
